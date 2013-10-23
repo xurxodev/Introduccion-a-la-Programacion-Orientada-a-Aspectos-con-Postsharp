@@ -1,0 +1,9 @@
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\bin\Debug\AOPConPostsharp.exe
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\bin\Debug\AOPConPostsharp.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\bin\Debug\PostSharp.dll
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\bin\Debug\PostSharp.xml
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\bin\Debug\AOPConPostsharp.pssym
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\obj\Debug\AOPConPostsharp.csprojResolveAssemblyReference.cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\obj\Debug\AOPConPostsharp.exe
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\obj\Debug\AOPConPostsharp.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AOPConPostsharp\obj\Debug\AOPConPostsharp.exe.postsharp
